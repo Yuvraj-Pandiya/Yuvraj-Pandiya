@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/vraj-pandiya-34b44b228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vraj-pandiya-34b44b228" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/yuvraj-pandiya-34b44b228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vraj-pandiya-34b44b228" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/pandiyayuvraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pandiyayuvraj" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/pandiyayuvraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="pandiyayuvraj" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/yuvraj_54321" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yuvraj_54321" height="30" width="40" /></a>
