@@ -35,29 +35,6 @@
 ---
 
 
-### 📊 GitHub Statistics
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Yuvraj-Pandiya&show_icons=true&locale=en&theme=default"
-    alt="Yuvraj's GitHub Stats"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvraj-Pandiya&layout=compact&locale=en&theme=default"
-    alt="Top Languages"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=Yuvraj-Pandiya&theme=default"
-    alt="GitHub Streak"
-  />
-</p>
-
 ### 🔗 Connect With Me
 
 <p align="left">
