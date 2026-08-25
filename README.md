@@ -46,23 +46,29 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuvraj-pandiya&theme=default" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.herokuapp.com/?user=yuvraj-pandiya&theme=default" alt="GitHub Streak" />
 </p>
 
 ---
 
 ### 🔗 Connect With Me
-<p align="center">
-  <img src="https://github-readme-stats.tuhidulhossain.com/api/stats?username=yuvraj-pandiya&show_icons=true" alt="Yuvraj's GitHub Stats" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.tuhidulhossain.com/api/top-langs?username=yuvraj-pandiya" alt="Top Languages" />
-</p>
+<p align="left">
+<a href="https://linkedin.com/in/yuvraj-pandiya-34b44b228" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="LinkedIn"/>
+</a>
 
-<p align="center">
-  <img src="https://github-readme-stats.tuhidulhossain.com/api/streak?username=yuvraj-pandiya" alt="GitHub Streak" />
-</p>
+<a href="https://www.hackerrank.com/pandiyayuvraj" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" alt="HackerRank"/>
+</a>
+
+<a href="https://codeforces.com/profile/pandiyayuvraj" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="30" width="40" alt="Codeforces"/>
+</a>
+
+<a href="https://leetcode.com/u/yuvraj_54321/" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" alt="LeetCode"/>
+</a>
 
 <a href="https://auth.geeksforgeeks.org/user/pandiyak3f5/" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40" alt="GeeksforGeeks"/>
